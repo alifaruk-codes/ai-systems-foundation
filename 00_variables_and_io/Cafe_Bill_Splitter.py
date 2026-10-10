@@ -19,6 +19,7 @@ Sample Output:
 Total Bill (with 10% tip): $550.0
 Amount Per Person: $137.5
 """
+#Solution
 Bill_amount = float(input("Enter the bill amount: "))
 Number_of_people = int(input("Enter the number of people: "))
 

@@ -12,7 +12,7 @@ Line 3 (float): Fuel price per liter.
 Output Format:
 Print the total liters of fuel required and the total estimated cost.
 """
-
+#Solution
 distance = float(input("Enter the distance(km): "))
 consumption_per_100km = float(input("Enter the fuel consumption per 100 km (L): "))
 fuel_price = float(input("Enter the fuel price per liter: "))

@@ -16,6 +16,7 @@ Output Format
 
 Print Weird if the number is weird. Otherwise, print Not Weird.
 '''
+#Solution
 n = int(input("Enter a number:"))
 
 if n % 2 == 1 :
